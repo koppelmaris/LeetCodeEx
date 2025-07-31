@@ -1,5 +1,6 @@
 package adddigits;
 
+
 class AddDigits {
     public int addDigits(int num) {
         if (num == 0) return 0;
